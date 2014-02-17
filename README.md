@@ -2,6 +2,17 @@ jQuery SLIDER
 
 http://www.behance.net/gallery/Jquery-Slider-with-Admin-Panel/1269931
 
+This is small PHP script with simple jQuery Slider with ADMIN panel. Some of the functions:
+jQuery Slider with jQuery efect
+Administration panel with login form
+Adding new user
+Adding new pictures with Titles, Description, Link
+Delete pictures
+Change the records for pictures
+Change Password of the user
+
+
+INSTALATION
 
 1)UPLOAD THE SCRIPT. MAKE SURE ALL THE FOLDER HAVE PERMISSION (755) AND ALL FILES (644).
 
